@@ -16,6 +16,6 @@ Learning to code, one line of C at a time.
 
 **Connect**
 
-[Facebook](https://www.facebook.com/khenh.moi.20/)
+duonggiakhanh.com
 
 <!-- profile README · khanhmoiii -->
