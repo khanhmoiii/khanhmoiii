@@ -8,7 +8,6 @@ Learning to code, one line of C at a time.
 
 **Now**
 - 🎓 Studying at PTIT
-- 🌱 Learning C and the fundamentals of programming
 
 **Stack**
 
