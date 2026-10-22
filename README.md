@@ -16,6 +16,5 @@ Learning to code, one line of C at a time.
 
 **Connect**
 
-duonggiakhanh.com
 
 <!-- profile README · khanhmoiii -->
