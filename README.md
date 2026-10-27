@@ -2,8 +2,6 @@
 
 Student at **Posts and Telecommunications Institute of Technology (PTIT)** · Hanoi, Vietnam
 
-Learning to code, one line of C at a time.
-
 &nbsp;
 
 **Now**
